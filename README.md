@@ -1,4 +1,4 @@
-# CAPM for basic stock analysis
+# Basic stock analysis
 
 **Lars Tinnefeld**, 2021-12-28
 
